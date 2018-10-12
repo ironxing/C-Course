@@ -1,6 +1,0 @@
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2\KT2\KT2\bin\Debug\KT2.exe.config
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2\KT2\KT2\bin\Debug\KT2.exe
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2\KT2\KT2\bin\Debug\KT2.pdb
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2\KT2\KT2\obj\Debug\KT2.csprojResolveAssemblyReference.cache
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2\KT2\KT2\obj\Debug\KT2.exe
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2\KT2\KT2\obj\Debug\KT2.pdb

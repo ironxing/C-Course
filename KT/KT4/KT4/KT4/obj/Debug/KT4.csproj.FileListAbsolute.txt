@@ -1,9 +1,0 @@
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4\KT4\KT4\bin\Debug\KT4.exe.config
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4\KT4\KT4\bin\Debug\KT4.exe
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4\KT4\KT4\bin\Debug\KT4.pdb
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4\KT4\KT4\obj\Debug\KT4.csprojResolveAssemblyReference.cache
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4\KT4\KT4\obj\Debug\KT4.Form1.resources
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4\KT4\KT4\obj\Debug\KT4.Properties.Resources.resources
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4\KT4\KT4\obj\Debug\KT4.csproj.GenerateResource.Cache
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4\KT4\KT4\obj\Debug\KT4.exe
-C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4\KT4\KT4\obj\Debug\KT4.pdb
