@@ -1,0 +1,6 @@
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2 pp\parProgrammering\parProgrammering\bin\Debug\parProgrammering.exe.config
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2 pp\parProgrammering\parProgrammering\bin\Debug\parProgrammering.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2 pp\parProgrammering\parProgrammering\bin\Debug\parProgrammering.pdb
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2 pp\parProgrammering\parProgrammering\obj\Debug\parProgrammering.csprojResolveAssemblyReference.cache
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2 pp\parProgrammering\parProgrammering\obj\Debug\parProgrammering.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT2 pp\parProgrammering\parProgrammering\obj\Debug\parProgrammering.pdb

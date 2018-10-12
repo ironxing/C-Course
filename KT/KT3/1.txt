@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KT3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var list = new List<string>();
+            var aString = "";
+            bool running = true;
+
+            while (running)
+            {
+                Console.WriteLine("Lägg till en rad:");
+                aString = Console.ReadLine();
+
+                if (aString != "q")
+                {
+                    list.Add(aString);
+                }
+                else
+                {
+                    running = false;
+                }
+            }
+
+            foreach (var element in list)
+            {
+                Console.WriteLine(element);
+            }
+
+            Console.ReadKey();
+        }
+    }
+}

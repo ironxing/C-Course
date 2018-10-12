@@ -1,0 +1,6 @@
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT1\game\game\bin\Debug\game.exe.config
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT1\game\game\bin\Debug\game.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT1\game\game\bin\Debug\game.pdb
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT1\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT1\game\game\obj\Debug\game.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT1\game\game\obj\Debug\game.pdb

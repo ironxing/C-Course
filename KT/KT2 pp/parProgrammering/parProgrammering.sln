@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parProgrammering", "parProgrammering\parProgrammering.csproj", "{B845443C-5D66-4A1F-82C9-5A4BE3D0F1C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B845443C-5D66-4A1F-82C9-5A4BE3D0F1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B845443C-5D66-4A1F-82C9-5A4BE3D0F1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B845443C-5D66-4A1F-82C9-5A4BE3D0F1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B845443C-5D66-4A1F-82C9-5A4BE3D0F1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

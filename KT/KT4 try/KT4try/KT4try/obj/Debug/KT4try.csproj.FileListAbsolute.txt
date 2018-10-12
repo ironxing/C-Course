@@ -1,0 +1,9 @@
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4 try\KT4try\KT4try\bin\Debug\KT4try.exe.config
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4 try\KT4try\KT4try\bin\Debug\KT4try.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4 try\KT4try\KT4try\bin\Debug\KT4try.pdb
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4 try\KT4try\KT4try\obj\Debug\KT4try.csprojResolveAssemblyReference.cache
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4 try\KT4try\KT4try\obj\Debug\KT4try.Form1.resources
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4 try\KT4try\KT4try\obj\Debug\KT4try.Properties.Resources.resources
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4 try\KT4try\KT4try\obj\Debug\KT4try.csproj.GenerateResource.Cache
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4 try\KT4try\KT4try\obj\Debug\KT4try.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT4 try\KT4try\KT4try\obj\Debug\KT4try.pdb

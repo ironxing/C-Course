@@ -1,0 +1,27 @@
+﻿using System;
+
+namespace Hello
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Do you want to play a game?");
+            string userInput = Console.ReadLine();
+            string toMatchString = "Tic-Tac-Toe";
+            Console.ReadKey();
+
+            while ()
+                do { 
+                    if (userInput == toMatchString)
+                    {
+                        Console.WriteLine("A strange game.The only way to win is not to play.");
+                    } else
+                    {
+                        Console.WriteLine("I’m sorry, I don’t know that game.");
+                    }
+                }
+        }
+    }
+}
+

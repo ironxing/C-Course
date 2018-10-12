@@ -1,0 +1,6 @@
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 C#\KT\KT3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
