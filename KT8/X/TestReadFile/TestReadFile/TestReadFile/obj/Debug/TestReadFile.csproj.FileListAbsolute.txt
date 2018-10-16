@@ -1,0 +1,6 @@
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\TestReadFile\TestReadFile\TestReadFile\obj\Debug\TestReadFile.csprojResolveAssemblyReference.cache
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\TestReadFile\TestReadFile\TestReadFile\bin\Debug\TestReadFile.exe.config
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\TestReadFile\TestReadFile\TestReadFile\bin\Debug\TestReadFile.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\TestReadFile\TestReadFile\TestReadFile\bin\Debug\TestReadFile.pdb
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\TestReadFile\TestReadFile\TestReadFile\obj\Debug\TestReadFile.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\TestReadFile\TestReadFile\TestReadFile\obj\Debug\TestReadFile.pdb

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{6A4A799B-D7FE-4B5B-831F-64D0DC0D00D4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Serializer/Models/Book.cs">
+    <Files>
+      <File FileName="Serializer/Program.cs" Line="25" Column="6" />
+      <File FileName="Serializer/Interfaces/ISerializeable.cs" Line="7" Column="1" />
+      <File FileName="Serializer/Models/Book.cs" Line="13" Column="4" />
+      <File FileName="Serializer/Models/SerializeableList.cs" Line="12" Column="10" />
+      <File FileName="Serializer/Data/SerializedReaderWriter.cs" Line="15" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BookSerializer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

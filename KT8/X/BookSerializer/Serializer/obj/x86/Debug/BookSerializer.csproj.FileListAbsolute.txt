@@ -1,0 +1,6 @@
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\BookSerializer\Serializer\bin\Debug\BookSerializer.exe.config
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\BookSerializer\Serializer\bin\Debug\BookSerializer.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\BookSerializer\Serializer\bin\Debug\BookSerializer.pdb
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\BookSerializer\Serializer\obj\x86\Debug\BookSerializer.csprojResolveAssemblyReference.cache
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\BookSerializer\Serializer\obj\x86\Debug\BookSerializer.exe
+C:\Users\Xing\Google Drive\My Documents\ORU\Termin 3\Del2 Objektorienterad programmering med C#\KT8\X\BookSerializer\Serializer\obj\x86\Debug\BookSerializer.pdb
